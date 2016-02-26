@@ -1,0 +1,6 @@
+[submodule "SubmoduleMMM"]
+	path = SubmoduleMMM
+	url = git@github.com:wdxgtsh/SubmoduleMMM.git
+[submodule "SubmoduleTTTT"]
+	path = SubmoduleTTTT
+	url = git@github.com:wdxgtsh/SubmoduleTTTT.git
